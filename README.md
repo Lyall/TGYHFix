@@ -8,7 +8,7 @@ This is a BepInEx plugin for Thank Goodness You're Here! that adds support for c
 ## Features
 - Custom resolution support.
 - Ultrawide and narrower aspect ratio support.
-- Intro skip.
+- Skip intro logos.
 
 ## Installation
 - Grab the latest release of TGYHFix from [here.](https://github.com/Lyall/TGYHFix/releases)

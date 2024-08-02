@@ -1,5 +1,5 @@
 ﻿# Thank Goodness You're Here Fix
-[![Patreon-Button]](https://www.patreon.com/Wintermance) 
+[![Patreon-Button](https://github.com/user-attachments/assets/480c628b-9084-4315-96f0-fc2db81c71c6)](https://www.patreon.com/Wintermance) 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W01UAI9)<br />
 [![Github All Releases](https://img.shields.io/github/downloads/Lyall/HundredHeroesFix/total.svg)](https://github.com/Lyall/HundredHeroesFix/releases)
 
@@ -28,7 +28,7 @@ This list will contain bugs which may or may not be fixed.
 
 ## Screenshots
 
-|  |
+| ![ezgif-7-7978644a05](https://github.com/user-attachments/assets/7df50967-b497-40f7-bf7c-2dd7f2e06545) |
 |:--:|
 | Gameplay |
 
